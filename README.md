@@ -1,6 +1,6 @@
 <div align="center">
-	<h3>Hi there. I'm Zyro or Maikatura 👋</h3>
-	<a href="https://maikatura.com">Website</a>
+	<h2>Hi there. I'm Zyro or Maikatura 👋</h2>
+	<h3><a href="https://maikatura.com">Website</a></h3>
 </div>
 
 
