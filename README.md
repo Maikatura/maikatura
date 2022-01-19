@@ -1,6 +1,8 @@
-### Hi there. I'm Zyro or Maikatura 👋
+<div style="text-align:center">
+	<h3>Hi there. I'm Zyro or Maikatura 👋</h3>
+	<a href="https://maikatura.com">Website</a>
+</div>
 
-#### [Website](https://maikatura.com)
 
 
 <img align="left" width="200px" src="images/VRCAvatar.png" />
