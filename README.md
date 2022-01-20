@@ -1,9 +1,8 @@
 <div align="center">
 	<h2>Hi there. I'm Zyro or Maikatura 👋</h2>
 	<h3><a href="https://maikatura.com">Website</a></h3>
+	<img src="https://komarev.com/ghpvc/?username=maikatura&label=Profile%20views&color=0e75b6&style=flat" alt="maikatura" /> 
 </div>
-
-
 
 <img align="left" width="200px" src="images/VRCAvatar.png" />
 I am a Game Developer that has great knowledge in C# and just basic understanding of C++.
