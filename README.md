@@ -4,7 +4,7 @@
 	<img src="https://komarev.com/ghpvc/?username=maikatura&label=Profile%20views&color=0e75b6&style=flat" alt="maikatura" /> 
 </div>
 
-<img align="left" width="200px" src="images/VRCAvatar.png" />
+<img align="left" width="200px" src="images/wow.png" />
 I am a Game Developer that has great knowledge in C# and just basic understanding of C++.
 I mostly play MMORPGs and if I dont work or play World of Warcraft I sometimes, but just sometimes play VRChat.
 <br><br>
